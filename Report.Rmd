@@ -1,5 +1,5 @@
 ---
-title: "Shity report"
+title: "Shitty report"
 output: html_document
 ---
 
